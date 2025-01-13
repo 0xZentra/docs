@@ -1,21 +1,19 @@
 # Table of contents
 
-* [LANGS](README.md)
-* [Welcome to Minus Protocol](en/README.md)
-  * [Table of contents](en/SUMMARY.md)
-  * [What is Minus](en/what-is-minus.md)
-  * [What is Inscription Space](en/what-is-inscription-space.md)
-  * [Design philosophy](en/design-philosophy.md)
-  * [Handle system](en/handle-system.md)
-  * [Python VM](en/python-vm.md)
-  * [Cross-chain hop](en/cross-chain-hop.md)
-  * [Committee](en/no-owner-committee.md)
-* [欢迎来到 Minus Protocol 减法协议](zh/README.md)
-  * [Table of contents](zh/SUMMARY.md)
-  * [什么是减法协议](zh/shi-mo-shi-jian-fa-xie-yi.md)
-  * [什么是铭文空间](zh/shi-mo-shi-ming-wen-kong-jian.md)
-  * [设计哲学](zh/she-ji-zhe-xue.md)
-  * [命名系统](zh/ming-ming-xi-tong.md)
-  * [Python 合约语言](zh/python-he-yue-yu-yan.md)
-  * [函数即应用](zh/han-shu-ji-ying-yong.md)
-  * [委员会](zh/wei-yuan-hui.md)
+* [Welcome to Zentra](README.md)
+* [Why Zentra?](why-zentra.md)
+
+## Core Concepts
+
+* [Roles](core-concepts/roles.md)
+* [Input and State](core-concepts/input-and-state.md)
+* [Global State Explosion](core-concepts/global-state-explosion.md)
+* [Chain and Indexer](core-concepts/chain-and-indexer.md)
+* [Code and Committee](core-concepts/code-and-committee.md)
+* [Python VM](core-concepts/python-vm.md)
+
+***
+
+* [Guides and Tutorials](guides-and-tutorials.md)
+* [Troubleshooting and FAQ](troubleshooting-and-faq.md)
+* [Community and Support](community-and-support.md)

@@ -1,2 +1,0 @@
-# No owner committee
-
