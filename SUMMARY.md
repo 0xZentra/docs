@@ -14,7 +14,8 @@
 
 ## Guides and Tutorials
 
-* [Untitled](guides-and-tutorials/untitled.md)
+* [Indexer Explorer](guides-and-tutorials/indexer-explorer.md)
+* [POWid](guides-and-tutorials/powid.md)
 
 ## Troubleshooting and FAQ
 
