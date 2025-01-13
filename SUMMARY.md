@@ -12,8 +12,14 @@
 * [Code and Committee](core-concepts/code-and-committee.md)
 * [Python VM](core-concepts/python-vm.md)
 
-***
+## Guides and Tutorials
 
-* [Guides and Tutorials](guides-and-tutorials.md)
-* [Troubleshooting and FAQ](troubleshooting-and-faq.md)
-* [Community and Support](community-and-support.md)
+* [Untitled](guides-and-tutorials/untitled.md)
+
+## Troubleshooting and FAQ
+
+* [Untitled](troubleshooting-and-faq/untitled.md)
+
+## Community and Support
+
+* [Page 4](community-and-support/page-4.md)
