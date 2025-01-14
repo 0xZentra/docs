@@ -17,9 +17,9 @@
 * [Indexer Explorer](guides-and-tutorials/indexer-explorer.md)
 * [POWid](guides-and-tutorials/powid.md)
 
-## Troubleshooting and FAQ
+## FAQ and Troubleshooting
 
-* [Untitled](troubleshooting-and-faq/untitled.md)
+* [Is Zentra a DA?](faq-and-troubleshooting/is-zentra-a-da.md)
 
 ## Community and Support
 
