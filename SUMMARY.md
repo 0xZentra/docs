@@ -19,8 +19,9 @@
 
 ## FAQ and Troubleshooting
 
+* [Is Zentra Decentralized?](faq-and-troubleshooting/is-zentra-decentralized.md)
 * [Is Zentra a DA?](faq-and-troubleshooting/is-zentra-a-da.md)
 
 ## Community and Support
 
-* [Page 4](community-and-support/page-4.md)
+* [Join Zentra community](community-and-support/join-zentra-community.md)
