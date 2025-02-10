@@ -8,14 +8,22 @@
 * [Roles](core-concepts/roles.md)
 * [Input and State](core-concepts/input-and-state.md)
 * [Global State Explosion](core-concepts/global-state-explosion.md)
+* [App State](core-concepts/app-state.md)
 * [Chain and Indexer](core-concepts/chain-and-indexer.md)
 * [Code and Committee](core-concepts/code-and-committee.md)
 * [Python VM](core-concepts/python-vm.md)
+* [Parallel VM](core-concepts/parallel-vm.md)
 
-## Guides and Tutorials
+## Tokenomic
 
-* [Indexer Explorer](guides-and-tutorials/indexer-explorer.md)
-* [POWid](guides-and-tutorials/powid.md)
+* [Bitcoin Paradox](tokenomic/bitcoin-paradox.md)
+* [Global Space Scarcity](tokenomic/global-space-scarcity.md)
+* [Zentra Tokenomic](tokenomic/zentra-tokenomic.md)
+
+## Guides
+
+* [Indexer Explorer](guides/indexer-explorer.md)
+* [POWid](guides/powid.md)
 
 ## FAQ and Troubleshooting
 
