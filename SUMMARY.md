@@ -7,12 +7,12 @@
 
 * [Roles](core-concepts/roles.md)
 * [Input and State](core-concepts/input-and-state.md)
-* [Global State Explosion](core-concepts/global-state-explosion.md)
-* [App State](core-concepts/app-state.md)
 * [Chain and Indexer](core-concepts/chain-and-indexer.md)
-* [Code and Committee](core-concepts/code-and-committee.md)
+* [App State](core-concepts/app-state.md)
 * [Python VM](core-concepts/python-vm.md)
 * [Parallel VM](core-concepts/parallel-vm.md)
+* [Global State Explosion](core-concepts/global-state-explosion.md)
+* [Code and Committee](core-concepts/code-and-committee.md)
 
 ## Tokenomic
 
