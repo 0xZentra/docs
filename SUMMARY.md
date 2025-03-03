@@ -30,6 +30,10 @@
 * [Is Zentra Decentralized?](faq-and-troubleshooting/is-zentra-decentralized.md)
 * [Is Zentra a DA?](faq-and-troubleshooting/is-zentra-a-da.md)
 
+***
+
+* [How does Security and verification works?](how-does-security-and-verification-works.md)
+
 ## Community and Support
 
 * [Join Zentra community](community-and-support/join-zentra-community.md)
