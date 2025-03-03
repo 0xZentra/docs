@@ -7,7 +7,7 @@
 
 * [Roles](core-concepts/roles.md)
 * [Input and State](core-concepts/input-and-state.md)
-* [Chain and Indexer](core-concepts/chain-and-indexer.md)
+* [Portable Ecosystem](core-concepts/portable-ecosystem.md)
 * [App State](core-concepts/app-state.md)
 * [Python VM](core-concepts/python-vm.md)
 * [Parallel VM](core-concepts/parallel-vm.md)

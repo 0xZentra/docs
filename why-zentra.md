@@ -1,11 +1,14 @@
 # Why Zentra?
 
-Modern blockchain development often encounters challenges like high transaction fees, limited programming flexibility, and difficulty in auditing smart contracts. Zentra addresses these issues by:
 
-* **Breaking Gas Limitations**: Developers can execute complex computations without worrying about gas constraints.
-* **Introducing Python to Blockchain**: Zentra makes Python the first programming language for blockchain applications, combining the simplicity and power of Python with the robust nature of decentralized systems.
-* **Enhanced Audibility**: Python’s readability and popularity in the developer community make blockchain programming more transparent and accessible. The more people can read, the more safety smart contract would get.
 
-By combining these features, Zentra redefines how developers interact with blockchains, providing tools to unlock new levels of efficiency, scalability, and innovation.
+The world computer of the future will offer higher TPS, lower costs, and greater decentralization. However, this evolution is a gradual process. Each evolution of blockchain infrastructure requires the creation of an entirely new ecosystem, leading to fragmentation and high migration costs.
 
-Meanwhile, as Zentra plays the duty of the heavy smart contract computation, the blockchain node could focus on the consensus on messages/transaction input. Zentra brings the new approach to increase blockchain TPS towards the massive adoption.&#x20;
+To accelerate massive adoption, we built Zentra — the first portable ecosystem based on Minus Theory.
+
+* **Ecosystem :** Ecosystem can’t evolve and attract the latest development since there is always a latest consensus finality with a new ecosystem that is trying to attract developers.
+* **Outdated:** Having an isolated ecosystem with no upgrades in finality puts developers in a difficult position when deciding where to build. If they choose to build on a particular layer, they risk becoming outdated. For example, we can observe that current DEXs often become obsolete because they cannot migrate their dApps to the latest chains.
+* **Developers**: They can't push the boundaries of innovation or focus on users if they are constantly forced to build an ecosystem from scratch. Instead, they will always opt for what is easiest to develop.
+* **Users:** Users always need to adapt to a new contract address and try a new dapps to chase liquidity and incentives.
+* **Investors:** Investors often allocate capital to new ecosystems and then reinvest in forked dApps built on previous ecosystems. This approach limits innovation, leading to a lack of ecosystem evolution. As a result, investors face diminishing returns and are left hoping for large marketing expenditures to attract the next wave of users.
+
