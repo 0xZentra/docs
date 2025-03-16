@@ -7,10 +7,10 @@
 
 * [Roles](core-concepts/roles.md)
 * [Input and State](core-concepts/input-and-state.md)
-* [Portable Ecosystem](core-concepts/portable-ecosystem.md)
+* [Upgradable Ecosystem](core-concepts/upgradable-ecosystem.md)
 * [App State](core-concepts/app-state.md)
 * [Python VM](core-concepts/python-vm.md)
-* [Parallel VM](core-concepts/parallel-vm.md)
+* [Parallel Python VM](core-concepts/parallel-python-vm.md)
 * [Global State Explosion](core-concepts/global-state-explosion.md)
 * [Code and Committee](core-concepts/code-and-committee.md)
 
