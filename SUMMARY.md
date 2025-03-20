@@ -20,11 +20,6 @@
 * [Global Space Scarcity](tokenomic/global-space-scarcity.md)
 * [Zentra Tokenomic](tokenomic/zentra-tokenomic.md)
 
-## Guides
-
-* [Indexer Explorer](guides/indexer-explorer.md)
-* [POWid](guides/powid.md)
-
 ## FAQ and Troubleshooting
 
 * [Is Zentra Decentralized?](faq-and-troubleshooting/is-zentra-decentralized.md)
