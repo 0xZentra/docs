@@ -1,8 +1,8 @@
-# Python VM
+# Python Bytecode
 
 Python, with its 30 years of active development and multiple redesigns, has established itself as one of the most popular and versatile programming languages in the world. Known for its simplicity, readability, and broad ecosystem, Python has become a preferred choice for developers across many domains, from web development to machine learning and now, blockchain programming.
 
-Zentra’s approach to integrating Python into blockchain development is unique in that it does not rely on creating a new Python compiler. Instead, Zentra directly converts Python source code into bytecode, ensuring seamless execution within the blockchain environment.
+Zentra’s approach to integrating Python into blockchain development is unique in that it does not rely on creating a new compiler, which **reduced the huge security risk**. Instead, Zentra directly converts Python source code into [python bytecode](https://docs.python.org/3.10/library/dis.html), ensuring seamless execution within the blockchain environment.
 
 In Zentra’s architecture, Python code plays a critical role as the **state transfer function** on the blockchain, ensuring that each Zentra indexer node runs the same code for the blockchain inputs. This guarantees consistency and determinism across the entire blockchain network, a fundamental requirement for maintaining trust and integrity in decentralized systems.
 

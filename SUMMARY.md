@@ -9,8 +9,8 @@
 * [Input and State](core-concepts/input-and-state.md)
 * [Upgradable Ecosystem](core-concepts/upgradable-ecosystem.md)
 * [App State](core-concepts/app-state.md)
-* [Python VM](core-concepts/python-vm.md)
-* [Parallel Python VM](core-concepts/parallel-python-vm.md)
+* [Python Bytecode](core-concepts/python-bytecode.md)
+* [Parallel VM](core-concepts/parallel-vm.md)
 * [Global State Explosion](core-concepts/global-state-explosion.md)
 * [Code and Committee](core-concepts/code-and-committee.md)
 
