@@ -1,6 +1,6 @@
-# Portable Ecosystem
+# Upgradable Ecosystem
 
-Zentra is the frist portable ecosystem. Due to Minus Theory, it decouples the consensus and execution for the blockchain, it is possible to move ecosystem to another blockchain infrastucture now.
+Zentra is the frist upgradable ecosystem. Due to Minus Theory, it decouples the consensus and execution for the blockchain, it is possible to move ecosystem to another blockchain infrastucture now.
 
 Modern blockchain can hardly balance from high transaction fees, limited programming flexibility, and decentrailzation. Zentra aim to solve those problem by making the ecosystem upgradable.
 

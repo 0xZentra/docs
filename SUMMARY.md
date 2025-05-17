@@ -3,19 +3,29 @@
 * [Welcome to Zentra](README.md)
 * [Why Zentra?](why-zentra.md)
 
+## Key Features
+
+* [Python to Blockchain](key-features/python-to-blockchain.md)
+* [Upgradable Ecosystem](key-features/upgradable-ecosystem.md)
+
+## Architecture
+
+* [Chain and Indexer](architecture/chain-and-indexer.md)
+
+***
+
+* [Minus Theory](https://github.com/ZentraPoW/whitepaper)
+
 ## Core Concepts
 
-* [Roles](core-concepts/roles.md)
 * [Input and State](core-concepts/input-and-state.md)
-* [Upgradable Ecosystem](core-concepts/upgradable-ecosystem.md)
 * [App State](core-concepts/app-state.md)
-* [Python Bytecode](core-concepts/python-bytecode.md)
 * [Parallel VM](core-concepts/parallel-vm.md)
-* [Global State Explosion](core-concepts/global-state-explosion.md)
 * [Code and Committee](core-concepts/code-and-committee.md)
 
 ## Tokenomic
 
+* [Global State Explosion](tokenomic/global-state-explosion.md)
 * [Bitcoin Paradox](tokenomic/bitcoin-paradox.md)
 * [Global Space Scarcity](tokenomic/global-space-scarcity.md)
 * [Zentra Tokenomic](tokenomic/zentra-tokenomic.md)
