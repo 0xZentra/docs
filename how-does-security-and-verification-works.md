@@ -35,7 +35,7 @@ The modern blockchain system and cryptography is robust for most of time, but th
 
 This is the reason Zentra never aim to create another language, but only choose the well designed, mature language, and brings Python to blockchain world.
 
-As a dynamic language, developers can focus on high level business logic. The integer in python is infinite and developers would never need to convert better uint128 to uint64. The fact from the industry is that, compiler static analysis can only catch the syntax level error. In python, we save the compiling time but directly go to the test case coverage.
+As a dynamic language, developers can focus on high level business logic. The integer in python is infinite and developers would never need to convert type uint128 to uint64. The fact from the industry is that, static analysis in compiler can only catch the syntax level error. In python, we save the compiling time but directly go to the test case coverage.
 
 The best part of the security promised by Zentra is that, the more people can read the on chain code, the more security it could achieve. Imagine 1% of programmer can read the C++/Rust language logic, python code is readable for most of the programmers. It would bring better security for the blockchain.
 
