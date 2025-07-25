@@ -11,7 +11,7 @@ Security is the foundation of any blockchain system. Security of Zentra consist 
 
 ### Theory foundation
 
-Zentra is created with the introduction of [Minus Theory](https://github.com/ZentraPoW/whitepaper). More precisely Minus Theory based on the textbook solid State Machine Theory. (Refer to [https://zentra.gitbook.io/dev/state-machine](https://zentra.gitbook.io/dev/state-machine) if you are not familiar)
+Zentra is created with the introduction of [Minus Theory](https://github.com/0xZentra/whitepaper). More precisely Minus Theory based on the textbook solid State Machine Theory. (Refer to [https://zentra.gitbook.io/dev/state-machine](https://zentra.gitbook.io/dev/state-machine) if you are not familiar)
 
 The strong mathematics make Zentra design security at the beginning. Any honest individual run a Zentra indexer (unmodified) could always get the same state result unless there is a hardware error.&#x20;
 

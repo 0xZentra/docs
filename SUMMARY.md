@@ -14,7 +14,7 @@
 
 ***
 
-* [Minus Theory](https://github.com/ZentraPoW/whitepaper)
+* [Minus Theory](https://github.com/0xZentra/whitepaper)
 
 ## Core Concepts
 
