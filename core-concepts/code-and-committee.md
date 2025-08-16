@@ -6,4 +6,4 @@ However, this advancement also introduced challenges. The flexibility of Ethereu
 
 
 
-In Zentra, we setup the **Zentra Improvement Proposal** process and a committee to discuss and propose the on-chain code before deploying. It is an important gatekeeper to ensure the on-chain security. The progress to launch new code on-chain is similar to EIP proposal but more practical. It encourages the system to innovate while being safe.
+In Zentra, we setup the **Zentra Improvement Proposal** process and a committee to discuss and propose the on-chain code before deploying. It is an important gatekeeper to ensure the on-chain security. The process to launch new code on-chain is similar to an EIP proposal but more practical. A `code` can contain multiple `functions`. To release it, developers first upload the code `snippets` (or upload them in segments) to the global state. After the code is fully uploaded, a proposal is created and voted on by the committee. This process encourages the system to innovate while being safe.
