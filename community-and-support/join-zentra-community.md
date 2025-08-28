@@ -4,6 +4,6 @@
 Find other resource
 {% endembed %}
 
-{% embed url="https://t.me/+tn744qPPVuthMDQ9" %}
+{% embed url="https://t.me/+MbcGsTGq2ppkYzE1" %}
 Community on Telegram
 {% endembed %}
