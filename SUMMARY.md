@@ -30,6 +30,13 @@
 * [Global Space Scarcity](tokenomic/global-space-scarcity.md)
 * [Zentra Tokenomic](tokenomic/zentra-tokenomic.md)
 
+## Airdrop <a href="#airdrop" id="airdrop"></a>
+
+* [Airdrop Plan](airdrop/airdrop-plan.md)
+* [Influence Airdrop](airdrop/influence-airdrop.md)
+* [Staking Airdrop](airdrop/staking-airdrop.md)
+* [Smart Contract Explained](airdrop/smart-contract-explained.md)
+
 ## FAQ and Troubleshooting
 
 * [Is Zentra Decentralized?](faq-and-troubleshooting/is-zentra-decentralized.md)
