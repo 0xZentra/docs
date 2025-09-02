@@ -5,8 +5,8 @@
 
 ## Key Features
 
-* [Python to Blockchain](key-features/python-to-blockchain.md)
 * [Upgradable Ecosystem](key-features/upgradable-ecosystem.md)
+* [Python to Blockchain](key-features/python-to-blockchain.md)
 
 ## Architecture
 
@@ -30,7 +30,7 @@
 * [Global Space Scarcity](tokenomic/global-space-scarcity.md)
 * [Zentra Tokenomic](tokenomic/zentra-tokenomic.md)
 
-## Airdrop <a href="#airdrop" id="airdrop"></a>
+## Airdrop
 
 * [Airdrop Plan](airdrop/airdrop-plan.md)
 * [Influence Airdrop](airdrop/influence-airdrop.md)
