@@ -7,6 +7,7 @@
 
 * [Upgradable Ecosystem](key-features/upgradable-ecosystem.md)
 * [Python to Blockchain](key-features/python-to-blockchain.md)
+* [Quantum Resistance](key-features/quantum-resistance.md)
 
 ## Architecture
 
