@@ -1,4 +1,6 @@
-# Influence Airdrop
+# Influence Airdrop (Stage 1, Completed)
+
+Stage 1 Influence Airdrop has concluded; details remain here for reference.
 
 Zentra's Influence Airdrop is designed to encourage community members to deeply understand Zentra's origins, goals, and vision.
 
@@ -6,7 +8,7 @@ Zentra's Influence Airdrop is designed to encourage community members to deeply 
 
 The development of blockchain is largely theory-driven. Since Satoshi's whitepaper, its core has been about creating unprecedented possibilities, not just meeting existing demands. However, many current blockchain projects are merely incremental innovations on Bitcoin or Ethereum, often sacrificing decentralization for performance.
 
-Zentra, based on "Minus Theory" and a series of new concepts, breaks through the traditional definitions of L1/L2. We know that we can only stand out among the many infrastructure projects when more people understand Zentra's innovative philosophy and long-term vision. Therefore, we hope to use the Influence Airdrop to incentivize the community to spread Zentra's ideas with us.
+Zentra, built on Minus Theory, positions itself as the blockchain OS Layer—neither L1 nor L2—and can evolve with new world computers instead of rebuilding new ecosystems each time. We can only stand out when more people understand this innovation and long-term vision, so we use the Influence Airdrop to encourage the community to spread Zentra’s ideas together.
 
 ## How to Participate?
 

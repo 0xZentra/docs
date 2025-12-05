@@ -2,11 +2,11 @@
 
 **What Does Decentralization Mean in Zentra?**
 
-In Zentra, decentralization means that **everyone can run a Zentra indexer with limited hardware resources.** This ensures that the execution and indexing components of the blockchain system remain accessible, resilient, and free from centralized control, regardless of the decentralization status of the upstream blockchain (L1 or L2).
+In Zentra, decentralization means that **everyone can run a Zentra indexer with limited hardware resources.** This keeps the execution and indexing components of the blockchain OS Layer accessible, resilient, and free from centralized control—regardless of how decentralized the upstream world computer (L1 or L2) is.
 
 **Does Zentra Care if the Upstream Blockchain is Decentralized?**
 
-Zentra is designed to function independently of the decentralization status of the upstream blockchain, whether it is a **Layer 1 (L1)** or **Layer 2 (L2).** While Zentra acknowledges the ideal scenario of a **purely decentralized Layer 1 with low access fees**, its primary focus is on maintaining its own decentralized nature. This means Zentra can operate effectively with both decentralized and centralized upstream blockchains.
+Zentra is designed to function independently of the decentralization status of the upstream blockchain, whether it is a **Layer 1 (L1)** or **Layer 2 (L2).** While Zentra acknowledges the ideal scenario of a **purely decentralized Layer 1 with low access fees**, its primary focus is on maintaining its own decentralized nature. Zentra can run on relatively centralized world computers while partnering with more decentralized L1s and can switch to better bases when they arrive.
 
 **How Does Zentra Maintain Its Decentralization?**
 

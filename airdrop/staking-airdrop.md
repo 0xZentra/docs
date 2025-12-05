@@ -1,21 +1,21 @@
-# Staking Airdrop
+# Staking Airdrop (Stage 2, opens with mainnet)
 
-Zentra's Staking Airdrop is designed to distribute tokens to early supporters through a transparent and secure mechanism while ensuring the safety of user principal. We achieve this by leveraging mature blockchain infrastructure and non-upgradable smart contracts.
+Zentra's Stage 2 airdrop starts with mainnet, using a “funds × time” model plus options, delivered via non-upgradable smart contracts to keep principal safe.
 
-## Core Rule
+## Core Rules
 
-The basic rule is very simple:
-
-**For every 1,000 USD in stablecoins (USDC or USDT) staked for 365 days, you will receive 1 Zentra Token.**
-
-This rule is flexible, with rewards proportional to "staked amount × days staked." For example, staking 10,000 USD in stablecoins for a cumulative total of 36.5 days will also earn you 1 Zentra Token.
+* **Funds × time accrual**: Baseline rate is **every 1,000 USD stablecoin × 365 days = 1 Zentra token (delivered after TGE)** to keep participant cost equal. No preset cap.
+* **Option bonus**: For each airdropped token you also get **10 option units** with a **$100 strike**, exercisable later at your discretion, no upfront payment required.
+* **Dynamic depletion**: As total staking grows, tokens are consumed faster and the overall window shortens. The contract monitors remaining allocation and will pause new deposits before depletion.
+* **After pause**: Only principal withdrawals are allowed; no new deposits.
 
 ## Flexible Participation
 
-*   **Multi-Chain Support**: Staking will be available on multiple Ethereum-compatible chains.
-*   **Flexible Terms**: You can join or exit at any time, freely deciding your staking duration.
-*   **Withdrawal Lock**: To maintain system stability and prevent frequent transactions, the smart contract requires a minimum lock-up period of **1 hour** after each deposit before a withdrawal can be made.
+* **Flexible staking**: Deposit or withdraw anytime; no long lock-ups.
+* **Multi-chain support**: Available on multiple Ethereum-compatible chains.
 
 ## Security and Transparency
 
-This event is not yet open. Before the official launch, we will publish the smart contract code in advance for the community to conduct a full audit.
+* **Non-upgradable contracts**: Zentra cannot touch staked funds.
+* **Open code**: Contracts will be published before launch for community audit.
+* **Emergency withdraw logic**: Built-in path to pull funds from DeFi in emergencies; cannot eliminate systemic risk from a base chain or centralized L2 black swan.

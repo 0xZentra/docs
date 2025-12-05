@@ -1,14 +1,11 @@
 # Why Zentra?
 
+Future world computers will keep improving—more TPS, lower cost, stronger decentralization—but each leap usually forces everyone to rebuild a brand-new ecosystem, creating fragmentation and migration friction.
 
+Zentra provides a “blockchain OS Layer”: an operating system layer that runs atop world computers, is upgradable at any time, and is neither a new L1 nor L2. It preserves the ability to run in a decentralized manner, and can switch to better world computers when they emerge—partnering with more decentralized L1s as the space evolves.
 
-The world computer of the future will offer higher TPS, lower costs, and greater decentralization. However, this evolution is a gradual process. Each evolution of blockchain infrastructure requires the creation of an entirely new ecosystem, leading to fragmentation and high migration costs.
-
-To accelerate massive adoption, we built Zentra — the first upgradable python ecosystem based on Minus Theory.
-
-* **Ecosystem :** Ecosystem can’t evolve and attract the latest development since there is always a latest consensus finality with a new ecosystem that is trying to attract developers.
-* **Outdated:** Having an isolated ecosystem with no upgrades in finality puts developers in a difficult position when deciding where to build. If they choose to build on a particular layer, they risk becoming outdated. For example, we can observe that current DEXs often become obsolete because they cannot migrate their dApps to the latest chains.
-* **Developers**: They can't push the boundaries of innovation or focus on users if they are constantly forced to build an ecosystem from scratch. Instead, they will always opt for what is easiest to develop.
-* **Users:** Users always need to adapt to a new contract address and try a new dapps to chase liquidity and incentives.
-* **Investors:** Investors often allocate capital to new ecosystems and then reinvest in forked dApps built on previous ecosystems. This approach limits innovation, leading to a lack of ecosystem evolution. As a result, investors face diminishing returns and are left hoping for large marketing expenditures to attract the next wave of users.
-
+* **Ecosystem:** As an OS Layer, the ecosystem becomes independent; the blockchain/world computer underneath is what gets upgraded or swapped without rebuilding the ecosystem.
+* **Outdated:** No more one-time, isolated picks. When base chains upgrade or better options appear, the OS Layer can move, avoiding dApps being stuck on stale chains.
+* **Developers:** Focus on users and innovation instead of repeatedly bootstrapping ecosystems; upgrade the OS Layer beneath you as world computers improve.
+* **Users:** No need to memorize new contract addresses or chase new ecosystems; OS Layer migrations are seamless to end users.
+* **Investors:** Capital can stay with the evolving ecosystem instead of funding the same forked dApps on every chain, freeing resources for true innovation.

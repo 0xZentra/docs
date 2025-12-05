@@ -1,15 +1,14 @@
 # Upgradable Ecosystem
 
-Zentra is the first upgradable ecosystem. Due to Minus Theory, it decouples the consensus and execution for the blockchain, it is possible to move ecosystem to another blockchain infrastructure now.
+Zentra builds the OS Layer of blockchain—a continuously upgradable operating system layer that can move with the evolution of world computers. Minus Theory decouples consensus and execution, so we can migrate the ecosystem between blockchains like swapping hardware, without being a new L1 or L2.
 
-Modern blockchain can hardly balance from high transaction fees, limited programming flexibility, and decentralization. Zentra aim to solve those problem by making the ecosystem upgradable.
+Modern blockchains struggle to balance fees, flexibility, and decentralization. By hosting the ecosystem on an upgradable OS Layer, Zentra can swap the underlying world computer each year if needed, choosing faster or more decentralized bases while keeping Zentra itself decentralized.
 
 Meanwhile, due to the Minus Theory, Zentra can improve current blockchain system with the following aspects:&#x20;
 
-* **Always Update to latest TPS:** Blockchain theory and technology is evolving everyday. TPS will be an infinity war like the CPU war between Intel and AMD. By realizing this, Zentra chose the path of TPS upgradable. We can continuously upgrade to the fastest blockchain without affecting the existing application ecosystem and user assets, providing a sustainable ecosystem for developers and users.
-* **Breaking Gas Limitations**: Developers can execute complex computations without worrying about gas constraints. The execution doesn't need to be finished before the next new block generated. Thus Minus Theory removes the execution time limitation.
-* **Introducing Python to Blockchain**: Zentra makes Python the first programming language for blockchain applications, combining the simplicity and power of Python with the robust nature of decentralized systems.
-* **Enhanced Audibility**: Python’s readability and popularity in the developer community make blockchain programming more transparent and accessible. The more people can read, the more safety smart contract would get.
+* **Always Update to latest TPS:** Blockchain tech evolves daily. Zentra chose the path of TPS upgradability: we can continuously move to the fastest world computer without disrupting apps or user assets, keeping the ecosystem sustainable.
+* **Breaking Gas Limitations**: Developers can run heavy computation without gas anxiety. Execution need not finish before the next block, removing typical execution time limits.
+* **Introducing Python to Blockchain**: Zentra makes Python the first-class language for blockchain apps, combining Python’s simplicity and power with decentralized robustness.
+* **Enhanced Audibility**: Python’s readability and popularity make blockchain programming more transparent and accessible. More eyes on code means safer smart contracts.
 
-By combining these features, Zentra provides the way unlock new levels of scalability, and innovation. However, we still see the future of blockchains may provide better TPS, cheap gas fee, and towards the full decentralization. Zentra makes the ecosystem upgradable to move to future blockchains.
-
+By combining these features, Zentra unlocks new levels of scalability and innovation. As an OS Layer we can keep partnering with more decentralized L1s and operate on faster, cheaper world computers, while delivering seamless evolution for developers and users.
