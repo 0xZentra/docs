@@ -8,10 +8,10 @@ Please note: The specific timing for Zentra's Token Generation Event (TGE) has n
 
 Zentra's total token supply is 21 million, identical to Bitcoin's. It is a utility token that represents the right to use the global state on the Zentra network. Unlike Bitcoin and Ethereum tokens, which are consumed in transactions, the Zentra token does not deplete with use. This characteristic makes it more akin to a reusable resource, like land or precious metals.
 
-This airdrop program will distribute approximately 2% of the total token supply. This percentage is intended to both incentivize early participants and prevent excessive selling pressure on the market from an overly large airdrop. Distribution is split into two stages:
+This airdrop program will distribute a fixed **0.5% (~105,000 tokens)** directly, plus a **5% option pool** reserved for participating accounts. Distribution is split into two stages:
 
 * **Stage 1 (Influence Airdrop)**: Completed; rewarded early evangelists who spread Zentra’s vision.
-* **Stage 2 (Funds×Time Airdrop at mainnet)**: No fixed cap. Airdrop accrues linearly by “staked funds × time” until this stage’s allocation is exhausted. Baseline rule: **every 1,000 USD stablecoin × 365 days = 1 Zentra token (delivered after TGE)** to keep cost equal for everyone. For each airdropped token, participants also receive **10 option units with a 100 USD strike** to buy Zentra in the future—no upfront payment—mitigating sybil/scientist hoarding while keeping upside.
+* **Stage 2 (Funds×Time Airdrop + Options at mainnet)**: Fixed at **0.5% airdrop + 5% option pool**. Airdrop accrues linearly by “staked funds × time” until the 0.5% allocation is exhausted; end is recorded by on-chain contract events. Baseline: **every 1,000 USD stablecoin × 365 days = 1 Zentra token (delivered after TGE)**; each airdropped token also grants **10 option units from the 5% pool with a $100 strike**, exercisable later without prepaying and unaffected by principal withdrawal. Bridging assets to Zentra via the official bridge also earns airdrop tokens (from the same 0.5% pool) but does **not** grant options.
 
 ## Risk Disclaimer
 
@@ -43,7 +43,8 @@ Startup investing is high-risk, and most retail participants can’t afford to l
 
 ## How to Participate
 
-Users can participate in the Zentra airdrop in the following two ways:
+Users can participate in the Zentra airdrop in the following ways:
 
 1.  **Expand Influence (Completed)**: Stage 1 influence airdrop is finished.
-2.  **Stake Stablecoins (opens with mainnet)**: Accrue airdrop by “funds × time,” flexible deposits/withdrawals. Baseline: 1,000 USD stablecoin × 365 days = 1 airdrop token (delivered post-TGE) + 10 option units at $100 strike. No fixed cap; system monitors remaining allocation and pauses new deposits when nearly exhausted. Principal remains withdrawable.
+2.  **Stake Stablecoins (opens with mainnet)**: Total fixed at 0.5% airdrop + 5% option pool. Accrue by “funds × time,” flexible deposits/withdrawals. Baseline: 1,000 USD stablecoin × 365 days = 1 airdrop token (post-TGE) + 10 option units at $100 strike. End and pause are driven by on-chain events when the 0.5% pool is depleted. Principal remains withdrawable.
+3.  **Official Bridge In (opens with mainnet)**: Bridge assets to Zentra via the official bridge to earn airdrop tokens from the 0.5% pool; this path does not include options. End is likewise determined by on-chain events.
