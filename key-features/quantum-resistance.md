@@ -1,58 +1,25 @@
 # Quantum Resistance
 
-## Overview
+Zentra’s upgradeable OS Layer and input-state separation give it a clear path to adapt when quantum threats emerge.
 
-Zentra's architecture design naturally provides quantum resistance capabilities, thanks to its unique upgradeability and state management mechanisms.
+## Core Points
 
-## Quantum Resistance Advantages
+- **Upgradeable base**: Swap to a world computer or signature scheme that is quantum-safe when needed.
+- **Input/state separation**: Signature verification is decoupled from global state, so replacing signatures does not touch user assets or app logic.
+- **No performance drag**: Avoids the “large signatures, slow system” problem; throughput and UX stay intact after migration.
 
-### Upgradeable Architecture
+## Why Upgrades Stay Simple
 
-Zentra's upgradeable ecosystem enables seamless migration to quantum-resistant blockchains when facing quantum algorithm threats:
+- **Signature decoupling**: Signatures are not written into state; history is isolated from current state, easing algorithm replacement.
+- **Ecosystem-stable**: Interfaces stay the same—users and developers don’t need to migrate or refactor.
 
-- **Flexible Migration**: When quantum computing threats approach, Zentra can directly upgrade the underlying blockchain infrastructure
-- **Backward Compatibility**: The upgrade process does not affect existing applications and historical data
-- **Forward-Looking Design**: The architecture itself considers future technology evolution needs
+## Typical Migration Steps
 
-### Unaffected Performance
+1) Continuously track quantum risks and standards  
+2) Choose a quantum-safe algorithm / base chain  
+3) Switch signatures and consensus at the OS Layer, migrate state and apps seamlessly  
+4) Observe runtime data and iterate
 
-The main challenge faced by traditional quantum-resistant solutions is signature size, but Zentra's unique design avoids this limitation:
+## Long-Term Commitment
 
-- **No Signature Storage**: Zentra's state model does not store signature data
-- **History Isolation**: Blockchain history recording does not affect current state
-- **Performance Maintained**: Adopting quantum-resistant algorithms does not degrade system performance
-
-### Advantages of Minus Theory Architecture
-
-It should be clarified that Minus Theory and quantum resistance theory have no direct intersection. However, the architecture proposed by Minus Theory, which separates transaction inputs from global state, makes future quantum resistance upgrades extremely easy:
-
-- **Input-State Separation**: Transaction inputs are independent of global state, facilitating algorithm upgrades
-- **Architectural Flexibility**: The separated design provides convenience for underlying algorithm replacement
-- **Upgrade-Friendly**: Upgrading to quantum-resistant algorithms does not break the existing ecosystem and has zero impact on users and developers
-
-## Technical Implementation
-
-### Upgrade Process
-
-1. **Threat Assessment**: Monitor quantum computing development trends
-2. **Algorithm Selection**: Choose appropriate quantum-resistant algorithms
-3. **Smooth Migration**: Achieve seamless switching through upgrade mechanisms without affecting the existing ecosystem
-4. **Validation Testing**: Ensure system stability and security, guaranteeing zero user perception
-
-### State Management
-
-- **State Separation**: Signature verification is separated from state storage
-- **History Archiving**: Historical data is managed independently without affecting performance
-- **Lightweight Verification**: Adopt efficient verification mechanisms
-
-## Long-term Value
-
-Zentra's quantum resistance feature is not only protection against future threats but also a commitment to long-term sustainable development:
-
-- **Technological Foresight**: Proactive deployment of next-generation security technologies
-- **User Confidence**: Provide long-term security guarantees for users
-- **Ecosystem Stability**: Ensure the sustainable development of the entire ecosystem
-
-## Summary
-
-Zentra provides great convenience for future quantum resistance upgrades through its unique upgradeable architecture and input-state separation design. Although the Minus Theory architecture was not designed for quantum resistance, its separated characteristics make quantum resistance upgrades simple and efficient. This provides technical guarantees for the long-term secure development of the entire Web3 ecosystem.
+Minus Theory was not designed specifically for quantum resistance, but its input-state separation plus upgradeable architecture makes quantum-safe evolution low-friction, giving Web3 a path to long-term security.
