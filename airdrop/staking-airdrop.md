@@ -7,8 +7,7 @@ Zentra's Stage 2 airdrop starts with mainnet, using a fixed **0.5% airdrop + 5% 
 * **Fixed allocation**: 0.5% of total supply (~105,000 tokens) for the airdrop, and an additional 5% reserved as the option pool. Depletion and pause are recorded and triggered by on-chain events.
 * **Funds × time accrual**: Baseline rate is **every 1,000 USD stablecoin × 365 days = 1 Zentra token (delivered after TGE)** to keep participant cost equal. Funds can be deposited or withdrawn anytime before depletion.
 * **Option bonus**: For each airdropped token you also get **10 option units** with a **$100 strike**, drawn from the 5% pool; exercise is optional, no upfront payment, and rights persist even if you withdraw principal later.
-* **Official bridge path**: Bridging assets to Zentra via the official bridge also earns airdrop tokens from the 0.5% pool, but does **not** include options.
-* **Dynamic depletion**: As total staking or bridge inflow grows, tokens are consumed faster and the window shortens. The contract monitors remaining allocation and will pause new deposits before depletion.
+* **Dynamic depletion**: As total staking grows, tokens are consumed faster and the window shortens. The contract monitors remaining allocation and will pause new deposits before depletion.
 * **After pause**: Only principal withdrawals are allowed; no new deposits.
 
 ## Flexible Participation

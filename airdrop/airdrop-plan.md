@@ -11,7 +11,7 @@ Zentra's total token supply is 21 million, identical to Bitcoin's. It is a utili
 This airdrop program will distribute a fixed **0.5% (~105,000 tokens)** directly, plus a **5% option pool** reserved for participating accounts. Distribution is split into two stages:
 
 * **Stage 1 (Influence Airdrop)**: Completed; rewarded early evangelists who spread Zentra’s vision.
-* **Stage 2 (Funds×Time Airdrop + Options at mainnet)**: Fixed at **0.5% airdrop + 5% option pool**. Airdrop accrues linearly by “staked funds × time” until the 0.5% allocation is exhausted; end is recorded by on-chain contract events. Baseline: **every 1,000 USD stablecoin × 365 days = 1 Zentra token (delivered after TGE)**; each airdropped token also grants **10 option units from the 5% pool with a $100 strike**, exercisable later without prepaying and unaffected by principal withdrawal. Bridging assets to Zentra via the official bridge also earns airdrop tokens (from the same 0.5% pool) but does **not** grant options.
+* **Stage 2 (Funds×Time Airdrop + Options at mainnet)**: Fixed at **0.5% airdrop + 5% option pool**. Airdrop accrues linearly by “staked funds × time” until the 0.5% allocation is exhausted; end is recorded by on-chain contract events. Baseline: **every 1,000 USD stablecoin × 365 days = 1 Zentra token (delivered after TGE)**; each airdropped token also grants **10 option units from the 5% pool with a $100 strike**, exercisable later without prepaying and unaffected by principal withdrawal.
 
 ## Risk Disclaimer
 
@@ -47,4 +47,3 @@ Users can participate in the Zentra airdrop in the following ways:
 
 1.  **Expand Influence (Completed)**: Stage 1 influence airdrop is finished.
 2.  **Stake Stablecoins (opens with mainnet)**: Total fixed at 0.5% airdrop + 5% option pool. Accrue by “funds × time,” flexible deposits/withdrawals. Baseline: 1,000 USD stablecoin × 365 days = 1 airdrop token (post-TGE) + 10 option units at $100 strike. End and pause are driven by on-chain events when the 0.5% pool is depleted. Principal remains withdrawable.
-3.  **Official Bridge In (opens with mainnet)**: Bridge assets to Zentra via the official bridge to earn airdrop tokens from the 0.5% pool; this path does not include options. End is likewise determined by on-chain events.
