@@ -22,4 +22,4 @@ Zentra’s upgradeable OS Layer and input-state separation give it a clear path 
 
 ## Long-Term Commitment
 
-Minus Theory was not designed specifically for quantum resistance, but its input-state separation plus upgradeable architecture makes quantum-safe evolution low-friction, giving Web3 a path to long-term security.
+Minus Theory was not designed specifically for quantum resistance, but its input-state separation plus upgradeable architecture makes quantum-safe evolution low-friction, giving Web3 a path to long-term security. Note that quantum threats are not currently prioritized but can be addressed seamlessly when needed.

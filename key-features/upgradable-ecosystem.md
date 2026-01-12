@@ -12,3 +12,7 @@ Meanwhile, due to the Minus Theory, Zentra can improve current blockchain system
 * **Enhanced Audibility**: Python’s readability and popularity make blockchain programming more transparent and accessible. More eyes on code means safer smart contracts.
 
 By combining these features, Zentra unlocks new levels of scalability and innovation. As an OS Layer we can keep partnering with more decentralized L1s and operate on faster, cheaper world computers, while delivering seamless evolution for developers and users.
+
+## Migration Between Different Architectures
+
+Zentra currently runs on Ethereum-compatible chains, treating them as the "standard PCs" of the blockchain world. For non-EVM chains like Solana or Polkadot, migration involves rewriting code, similar to adapting DOS applications for Windows—while DOS apps can run on Windows, they often require rewriting for compatibility. Zentra's Python VM simplifies this process, as most applications can be rewritten more easily than in EVM languages, and the code's readability enhances security through broader audits.

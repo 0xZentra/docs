@@ -16,3 +16,5 @@ This model creates a sustainable ecosystem where:
 
 By moving beyond traditional blockchain tokenomics, Zentra transforms tokens from mere transactional fuel or speculative assets into essential drivers of **sustainable blockchain economic growth**.
 
+As a startup, Zentra's primary goal is generating revenue without sacrificing decentralization, tied to the fixed 21 million token supply. The Zentra token is a utility token (not governance), representing access to global state space without depletion during transactions—akin to on-chain land that persists unless given away. Each token grants 1KB of on-chain state space, held by developers and users to allocate resources efficiently.
+

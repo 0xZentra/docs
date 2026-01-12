@@ -2,7 +2,7 @@
 
 Zentra is planning to launch an airdrop program before the mainnet goes live and will open a second stage alongside mainnet launch. Based on a completely new blockchain theory and framework, Zentra has chosen to be a "No VC" project, aiming to give users the first opportunity to participate in building the next generation of blockchain infrastructure.
 
-Please note: The specific timing for Zentra's Token Generation Event (TGE) has not yet been determined, but it is anticipated in Q3/Q4 of 2026. The airdrop will be distributed after the TGE. We are committed to making all airdrop rules fully transparent and will execute them using mature, existing infrastructure and non-upgradable smart contracts to minimize human-related uncertainty.
+Please note: Zentra's mainnet launched in December 2025, but the Token Generation Event (TGE) has not occurred yet. The airdrop will be distributed after the TGE. We are committed to making all airdrop rules fully transparent and will execute them using mature, existing infrastructure and non-upgradable smart contracts to minimize human-related uncertainty.
 
 ## Airdrop Quantity
 
@@ -11,7 +11,7 @@ Zentra's total token supply is 21 million, identical to Bitcoin's. It is a utili
 This airdrop program will distribute a fixed **0.5% (~105,000 tokens)** directly, plus a **5% option pool** reserved for participating accounts. Distribution is split into two stages:
 
 * **Stage 1 (Influence Airdrop)**: Completed; rewarded early evangelists who spread Zentra’s vision.
-* **Stage 2 (Funds×Time Airdrop + Options at mainnet)**: Fixed at **0.5% airdrop + 5% option pool**. Airdrop accrues linearly by “staked funds × time” until the 0.5% allocation is exhausted; end is recorded by on-chain contract events. Baseline: **every 1,000 USD stablecoin × 365 days = 1 Zentra token (delivered after TGE)**; each airdropped token also grants **10 option units from the 5% pool with a $100 strike**, exercisable later without prepaying and unaffected by principal withdrawal.
+* **Stage 2 (Funds×Time Airdrop + Options at mainnet)**: Fixed at **0.5% airdrop + 5% option pool**. Not starting yet; will accrue linearly by “staked funds × time” until the 0.5% allocation is exhausted; end is recorded by on-chain contract events. Baseline: **every 1,000 USD stablecoin × 365 days = 1 Zentra token (delivered after TGE)**; each airdropped token also grants **10 option units from the 5% pool with a $100 strike**, exercisable later without prepaying and unaffected by principal withdrawal.
 
 ## Risk Disclaimer
 
@@ -41,9 +41,13 @@ Startup investing is high-risk, and most retail participants can’t afford to l
 * **Build real demand**: Our goal is to grow the Zentra ecosystem to drive real utility demand for the token.
 * **Useful token as a product**: A useful token is an information good—no after-sales burden, no hardware lifecycle/failure, and potential appreciation.
 
+## Zentra's Business Model and Revenue
+
+Zentra aims for revenue generation through ecosystem growth and state allocation, while preserving decentralization via the fixed token supply. Tokens facilitate access to scarce global state, creating economic incentives for efficient use without depletion, driving sustainable adoption and value capture.
+
 ## How to Participate
 
 Users can participate in the Zentra airdrop in the following ways:
 
 1.  **Expand Influence (Completed)**: Stage 1 influence airdrop is finished.
-2.  **Stake Stablecoins (opens with mainnet)**: Total fixed at 0.5% airdrop + 5% option pool. Accrue by “funds × time,” flexible deposits/withdrawals. Baseline: 1,000 USD stablecoin × 365 days = 1 airdrop token (post-TGE) + 10 option units at $100 strike. End and pause are driven by on-chain events when the 0.5% pool is depleted. Principal remains withdrawable.
+2.  **Stake Stablecoins (not start yet)**: Total fixed at 0.5% airdrop + 5% option pool. Not starting yet; will accrue by “funds × time,” flexible deposits/withdrawals. Baseline: 1,000 USD stablecoin × 365 days = 1 airdrop token (post-TGE) + 10 option units at $100 strike. End and pause are driven by on-chain events when the 0.5% pool is depleted. Principal remains withdrawable.
